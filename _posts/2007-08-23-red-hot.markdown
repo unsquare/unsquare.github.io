@@ -1,0 +1,22 @@
+---
+author: Pwnocchio
+comments: true
+date: 2007-08-23 05:25:04+00:00
+layout: post
+slug: red-hot
+title: Red Hot!
+wordpress_id: 32
+categories:
+- Maintenance
+- News
+tags:
+- blog of the day
+- leet world
+- red orbit
+- technology community
+- Videos
+---
+
+Just a quick shout out to Red Orbit, who have put us up as their "Blog of the Day".  It's a rad science and technology community website.  Great place to find excellent videos, blogs, news, and friendly folks.  You can visit them [here](http://www.redorbit.com).
+
+![](http://www.smoothfewfilms.com/extras/award1-blog.gif)

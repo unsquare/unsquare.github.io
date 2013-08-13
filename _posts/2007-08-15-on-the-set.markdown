@@ -1,0 +1,26 @@
+---
+author: Pwnocchio
+comments: true
+date: 2007-08-15 16:43:21+00:00
+layout: post
+slug: on-the-set
+title: On the Set
+wordpress_id: 27
+categories:
+- News
+- TheLeetWorld
+tags:
+- Dirty Deeds
+- episode 2
+- leet world
+- Machinima
+- TheLeetWorld
+---
+
+A brief update on Episode Two: Dirty Deeds...
+
+Last night, we filmed probably our most complicated scene we've filmed yet, which requires all 8 characters.  The scene's not super complicated per se, it's just that there aren't 8 of us.  Lots of manipulation of bots, patience, and bottling up of curses is needed, but we got it done.  Also, for some reason, Nick's "camera" computer decided it didn't like component signals, so that set us back for awhile.  But now, all is ok.  So far, the episode is coming along quite well, and we'll know this weekend exactly when it's going to be ready.
+
+You should know, though, that we plan to release it at some point next week.
+
+Also, you can now find us on www.machinima.com, under the "Half Life" section.  Go vote for us if you like.

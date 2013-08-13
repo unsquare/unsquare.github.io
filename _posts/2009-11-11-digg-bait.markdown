@@ -1,0 +1,15 @@
+---
+author: Pwnocchio
+comments: true
+date: 2009-11-11 07:20:42+00:00
+layout: post
+slug: digg-bait
+title: Digg Bait
+wordpress_id: 2350
+categories:
+- WZ-Releases
+---
+
+The guys brainstorm top 10 lists in order to create full proof "Digg Bait". Ray moves in with Alex when he is evicted from his apartment.
+
+To download, head over to [Revision3](http://revision3.com/webzeroes/diggbait).
