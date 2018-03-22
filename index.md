@@ -1,5 +1,3 @@
-![](http://unsquare.com/images/JeffJames.jpg)
-
 Hi, I'm Jeff James! In my spare time, I am a writer.
 
 I've written episodes of both [Web Zeroes][wz] and [The Leet World][tlw] for my friends at [Smooth Few Films][sff]. We're currently hard at work on a long-awaited third season of The Leet World. I am also developing some scripts of my own.

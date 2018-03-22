@@ -1,0 +1,8 @@
+title: Jeff James
+description: Writer of The Leet World, Web Zeroes, short fiction, gaming news and book reviews.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
